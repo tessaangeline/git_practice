@@ -1,1 +1,2 @@
 Today I learned Git branching and commits.
+I also learned Git merge and rebase.

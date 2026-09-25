@@ -2,5 +2,6 @@
 
 Learning Git and GitHub at SayOne during my internship.
 This repository is part of my SayOne internship practice.
-Practicing Git workflows during my SayOne internship.
+Practicing Git and GitHub workflows during my SayOne internship.
+
 

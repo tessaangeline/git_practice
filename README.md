@@ -1,3 +1,6 @@
 # Git Practice
-Learning Git and GitHub at SayOne.
-Practicing Git workflows for my internship.
+
+Learning Git and GitHub at SayOne during my internship.
+
+
+
